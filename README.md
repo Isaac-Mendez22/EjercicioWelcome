@@ -10,5 +10,5 @@ En este proyecto se uso:
 4. Los recursos del desarrollador en el navegador
 ```
 Vista previa del index.html y welcome.html
-![Index]()
-![Welcome]()
+![Index](https://raw.githubusercontent.com/Isaac-Mendez22/EjercicioWelcome/refs/heads/develop/imagenes/index.png)
+![Welcome](https://raw.githubusercontent.com/Isaac-Mendez22/EjercicioWelcome/refs/heads/develop/imagenes/Welcome.png)
